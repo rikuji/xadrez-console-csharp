@@ -6,7 +6,7 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("PROJETO XADREZ");
             Console.ReadLine();
         }
     }
