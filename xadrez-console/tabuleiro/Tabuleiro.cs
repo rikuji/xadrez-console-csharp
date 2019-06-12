@@ -11,7 +11,7 @@ namespace xadrez_console.tabuleiro
 
         private Peca[,] pecas;
 
-        public Tabuleiro(int linhas, int coluna)
+        public Tabuleiro(int linhas, int colunas)
         {
             this.linhas = linhas;
             this.colunas = colunas;
